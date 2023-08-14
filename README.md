@@ -5,9 +5,9 @@ This project was carried out in an attempt to learn dashboard creation using Exc
 A Human Resources dataset on employees Attrition was analyzed and a Visualization Dashboard was created
 
 The Excel file contains the Dashboard.
-
-
-
+br
+br
+br
 ![Interactive-dashboard-snapshot](https://github.com/YinkaOlusola/hr-attrition-data-analysis-using-excel/assets/52519547/be59231e-a07b-430d-b9c7-3b0246efa4bb)
 
 From the Dashboard shown above, it can be seen that attrition is higher among males than females.
